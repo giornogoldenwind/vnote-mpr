@@ -20,9 +20,10 @@ The only changes I noticed were:
 
 * different naming conventions from Debian in depencencies
     * `qtbase5-dev` needed to be added
-    * the suffix `-dev` is important for "development" packages -- i.e.,
-      building [Qt](https://en.wikipedia.org/wiki/Qt_(software)) applications
-      from source, which is what we are doing here in the AUR/MPR package
+    * packages with the suffix `*-dev` are important for "development" packages
+      -- i.e., building [Qt](https://en.wikipedia.org/wiki/Qt_(software))
+      applications from source, which is what we are doing here in this AUR/MPR
+      package
     * `qt-make` is most likely a dependency for the make process, but not at
       runtime
 * adding `git submodule update --remote` at the end of each `git submodule init`
