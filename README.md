@@ -56,7 +56,11 @@ Consideration goes to:
 
 ## License
 
-The license is GPLv3.
+The PKGBUILD is licensed under the GPLv3 license.
+
+(This is not to be confused with [VNote](https://github.com/vnotex/vnote) being
+licensed under the [LGPLv3](https://github.com/vnotex/vnote/blob/master/COPYING.LESSER)
+license.)
 
 ### Aside
 
