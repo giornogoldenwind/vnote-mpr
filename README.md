@@ -51,7 +51,7 @@ Consideration goes to:
         * [`electronmail-bin`](https://mpr.makedeb.org/packages/electronmail-bin)
         * [`freetube-bin`](https://mpr.makedeb.org/packages/freetube-bin)
         * [`tutanota-desktop-bin`](https://mpr.makedeb.org/packages/tutanota-desktop-bin)
-    * A counter example, would be [Signal Desktop](https://signal.org/download/linux/))
+    * A counter example, would be [Signal Desktop](https://signal.org/download/linux/)
 
 ## License
 
