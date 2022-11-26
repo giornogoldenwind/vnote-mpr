@@ -7,8 +7,8 @@ This is where I keep a few words on packaging the source package
 ## About
 
 I spent about one day on a weekend to see if I can basically copy an entire
-`PKGBUILD` from the AUR and paste it into `$ makedeb`, with minor rewrites of
-Debian-related.
+`PKGBUILD` from the AUR and paste it into `$ makedeb`, with minor edits for
+Debian-related aspects.
 
 Basically, this process worked with a lot of trial and error to determine what
 dependencies were needed in Debian, as opposed to the more simple and direct
