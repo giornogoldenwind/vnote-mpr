@@ -1,4 +1,4 @@
-# Maintainer: giornogoldenwind <giornogoldenwind at noreply github>
+# Maintainer: giornogoldenwind <114269150+giornogoldenwind at users.noreply.github.com>
 # Maintainer (AUR): Fabio 'Lolix' Loli <fabio.loli@disroot.org> -> https://github.com/FabioLolix
 # Contributor (AUR): erk <v at erk dot io>
 pkgname=vnote
