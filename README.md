@@ -42,8 +42,10 @@ Credit goes to:
 Consideration goes to:
 
 * Pop!\_OS, for fighting the good fight against Canonical's monotonically
-  regressive changes to Ubuntu (except for -- this is an upstream change from
-  Ubuntu)
+  regressive changes to Ubuntu (except for Ubuntu turning [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+  into a   [Snap](https://en.wikipedia.org/wiki/Snap_(software)) package -- this
+  is an upstream change from Ubuntu that currently only   [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint)
+  has been able to repackage Chromium as a "normal" [`.deb`](https://en.wikipedia.org/wiki/Deb_(file_format)))
 * The [`makedeb`](https://www.makedeb.org/) project, for giving a pragmatic path
   for `npm`, Node&period;js, and/or Electron application binaries to be used on
   Debian- or Ubuntu-based Linux distros when maintainers do not have any plans
